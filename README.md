@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahmannurhakim" alt="abdurrahmannurhakim" /></a> </p>
 
-- 🔭 I’m currently working on [Density & FlowRate Gas Calculation](https://github.com/abdurrahmannurhakim/Calculate-Density-and-Spesific-Gravity)
-
-- 🌱 I’m currently learning **Java Programming**
-
-- 📫 How to reach me **abdurrahmannurhakim@gmail.com**
+- 🔭 I’m currently working as A RnD Software & Firmware Engineer at Korosi Specindo
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdurrahman-nurhakim/](https://www.linkedin.com/in/abdurrahman-nurhakim/)
 
