@@ -1,25 +1,84 @@
 <h1 align="center">Hi 👋, I'm Abdurrahman Nurhakim</h1>
-<h3 align="center">I am currently working as a Firmware Engineer.</h3>
+<h3 align="center">Software & Firmware Engineer passionate about Embedded Systems, AI, and Mechatronics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmannurhakim&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmannurhakim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahmannurhakim" alt="abdurrahmannurhakim" /></a> </p>
-
-- 🔭 I’m currently working as A RnD Software & Firmware Engineer at Korosi Specindo
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdurrahman-nurhakim/](https://www.linkedin.com/in/abdurrahman-nurhakim/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdurrahman-nurhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdurrahman-nurhakim" height="30" width="40" /></a>
-<a href="https://instagram.com/abdurrahman_nurhakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdurrahman_nurhakim" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdurrahmannurhakim&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmannurhakim" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working as an **R&D Software & Firmware Engineer**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahmannurhakim&show_icons=true&locale=en&layout=compact" alt="abdurrahmannurhakim" /></p>
+- 🌱 I’m currently learning **Advanced Embedded Systems and AI Integration**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahmannurhakim&show_icons=true&locale=en" alt="abdurrahmannurhakim" /></p>
+- 👨‍💻 All of my projects are available at [**My GitHub Repositories**](https://github.com/abdurrahmannurhakim?tab=repositories)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmannurhakim&" alt="abdurrahmannurhakim" /></p>
+- 📄 Know about my experiences on [**LinkedIn**](https://www.linkedin.com/in/abdurrahman-nurhakim/)
+
+## 🛠️ Experience
+
+- Over 5 years of experience in firmware engineering and mechatronics.
+- Developed firmware and software for industrial devices using protocols like **Modbus** and **HART**.
+- Worked on freelance projects involving **AI**, **automation**, and **web integration**.
+- Experienced in military product development and control systems.
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abdurrahman-nurhakim" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdurrahmannurhakim@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
+  </a>
+</p>
+
+## 🚀 Languages and Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/arduino.png" alt="Arduino"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>
+  </a>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurrahmannurhakim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmannurhakim&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmannurhakim&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
